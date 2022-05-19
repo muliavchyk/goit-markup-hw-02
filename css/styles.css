@@ -20,15 +20,21 @@ top: 32px;
     height: 31px;
     left: 215px;
     top: 24px;
-font-weight: 700;
-font-size: 26px;
-line-height: 31px;
-letter-spacing: 0.03em;
-text-decoration: none;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+    
+    letter-spacing: 0.03em;
+    text-decoration: none;
 }
 .stud{
     color: #212121;
-    font-weight: 500;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
 font-size: 14px;
 line-height: 16px;
 letter-spacing: 0.02em;
@@ -41,10 +47,12 @@ text-decoration: none;
 }
 .portfolio{
     color: #212121;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.02em;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
     position: absolute;
     width: 77px;
 height: 16px;
@@ -54,10 +62,12 @@ text-decoration: none;
 }
 .contacts{
     color: #212121;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.02em;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
     position: absolute;
     width: 68px;
     height: 16px;
@@ -67,10 +77,18 @@ text-decoration: none;
 }
 .mail{
     color: #212121;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.02em;
+    position: absolute;
+width: 135px;
+height: 16px;
+left: 1078px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
     position: absolute;
     width: 135px;
 height: 16px;
@@ -80,10 +98,12 @@ text-decoration: none;
 }
 .phone{
     color: #212121;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.02em;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
     position: absolute;
     width: 122px;
 height: 16px;
@@ -227,6 +247,7 @@ color: #212121;
     height: 294px;
     left: 215px;
     top: 1061px;
+    mix-blend-mode: normal;
 }
 .photo-2{
     position: absolute;
@@ -617,7 +638,6 @@ font-style: normal;
 font-weight: 400;
 font-size: 14px;
 line-height: 24px;
-/* or 171% */
 
 letter-spacing: 0.03em;
 
@@ -625,14 +645,18 @@ color: rgba(255, 255, 255, 0.6);
 text-decoration: none;
 }
 .phone-1{
+    list-style-type: none;
     text-decoration: none;
 }
 .studio-1{
+    list-style-type: none;
     text-decoration: none;
 }
 .link{
+    list-style-type: none;
     text-decoration: none;
 }
 .adress-1{
+    list-style-type: none;
     text-decoration: none;
 }
