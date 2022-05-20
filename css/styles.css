@@ -235,7 +235,7 @@ font-size: 36px;
 line-height: 42px;
 text-align: center;
 letter-spacing: 0.03em;
-
+white-space: nowrap;
 color: #212121;
 }
 
@@ -452,65 +452,65 @@ top: 1061px;
     
     text-align: center;
     letter-spacing: 0.03em;
-    
+    margin-top: 25px;
     color: #757575;
 }
 .proff-2{
     position: absolute;
-width: 147px;
-height: 19px;
-left: 577px;
-top: 1954px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 19px;
-/* identical to box height */
-
-text-align: center;
-letter-spacing: 0.03em;
-
-color: #757575;
+    width: 147px;
+    height: 19px;
+    left: 577px;
+    top: 1954px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: 0.03em;
+    margin-top: 25px;
+    color: #757575;
 }
 .proff-3{
     position: absolute;
-width: 76px;
-height: 19px;
-left: 912px;
-top: 1954px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 19px;
-/* identical to box height */
-
-text-align: center;
-letter-spacing: 0.03em;
-
-color: #757575;
+    width: 76px;
+    height: 19px;
+    left: 912px;
+    top: 1954px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: 0.03em;
+    margin-top: 25px;
+    color: #757575;
 }
 .proff-4{
     position: absolute;
-width: 87px;
-height: 19px;
-left: 1207px;
-top: 1954px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 19px;
-/* identical to box height */
-
-text-align: center;
-letter-spacing: 0.03em;
-
-color: #757575;
+    width: 87px;
+    height: 19px;
+    left: 1207px;
+    top: 1954px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: 0.03em;
+    margin-top: 25px;
+    color: #757575;
 }
 .photo-pers-1{
     border-radius: 0px;
@@ -559,6 +559,7 @@ font-size: 36px;
 line-height: 42px;
 text-align: center;
 letter-spacing: 0.03em;
+white-space: nowrap;
 
 color: #212121;
 }
